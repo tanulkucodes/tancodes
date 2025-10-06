@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/tanulkucodes/tanulkucodes/main/banner.png)
+[![Header](https://raw.githubusercontent.com/tanulkucodes/tanulkucodes/main/banner.png)](https://github.com/tanulkucodes/tancodes/blob/main/Tancodes.png)
 
 # 👋 Hi, I'm Sertac Tanulku — **Tancodes**
 **🇯🇵 Freelance Mobile Engineer based in Japan**  
