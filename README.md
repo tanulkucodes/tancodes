@@ -1,4 +1,4 @@
-https://github.com/tanulkucodes/tancodes/blob/main/Tancodes.png)
+![Header] (https://github.com/tanulkucodes/tancodes/blob/main/Tancodes.png)
 
 # 👋 Hi, I'm Sertac Tanulku — **Tancodes**
 **🇯🇵 Freelance Mobile Engineer based in Japan**  
