@@ -40,8 +40,8 @@ Task manager that learns user habits and optimizes routines using GPT-based insi
 
 ### 🍱 **CookMate – Recipe & Nutrition App**
 Beautifully designed app for organizing recipes and tracking nutrition goals.  
-**Stack:** React Native · Firebase · TypeScript · Styled Components  
-🔗 [**Repository → View on GitHub**](#)
+**Stack:** Flutter · Firebase · TypeScript · Styled Components  
+🔗 [**Repository → View on GitHub**](https://github.com/tanulkucodes/CookMate)
 
 ---
 
