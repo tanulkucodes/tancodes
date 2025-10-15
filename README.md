@@ -8,14 +8,14 @@ React Native • Swift • Expo • Firebase • TypeScript
 > 💡 Turning ideas into clean, scalable, and production-ready apps.
 
 **日本語対応可能 🇯🇵**  
-モバイルアプリ開発（React Native・Swift・Expo）  
+モバイルアプリ開発（Flutter React ・ Native・Swift・Expo）  
 高品質・納期厳守・信頼性の高いコードを提供します。  
 
 ---
 
 ## 🚀 Tech Stack
 **Languages & Frameworks:**  
-React Native · TypeScript · Swift · Expo · Node.js · Firebase · Next.js  
+Flutter · React Native · TypeScript · Swift · Expo · Node.js · Firebase · Next.js  
 
 **Design & Tools:**  
 Figma · Expo Go · VS Code · Git · Postman · Xcode · Android Studio  
@@ -33,8 +33,8 @@ Cross-platform mobile app syncing wearable sensors via Bluetooth and visualizing
 
 ### 🧠 **FieldNote – AI-Assisted Productivity App**
 Task manager that learns user habits and optimizes routines using GPT-based insights.  
-**Stack:** React Native · Firebase · OpenAI API · Redux Toolkit  
-🔗 [**Demo → Coming Soon**](#)
+**Stack:**  Flutter · Firebase · OpenAI API · Redux Toolkit  
+🔗 [**Repository → View on GitHub**](https://github.com/tanulkucodes/FieldNote)
 
 ---
 
@@ -64,7 +64,7 @@ Beautifully designed app for organizing recipes and tracking nutrition goals.
 ---
 
 ### 💼 Availability
-✅ Available for **freelance mobile app projects (React Native / Swift / Expo)**  
+✅ Available for **freelance mobile app projects (Flutter / React Native / Swift / Expo)**  
 日本語・英語どちらでも対応可能です。  
 高品質・信頼性・スピードを重視しています。  
 
